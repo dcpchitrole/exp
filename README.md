@@ -1,4 +1,4 @@
 # exp
-Exploring Features of Git
-Author- DCP Chitrole
+Exploring Features of Git <br>
+Author- DCP Chitrole <br>
 Assistant Author- ACP Pradyuman
